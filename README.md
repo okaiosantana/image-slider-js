@@ -1,5 +1,10 @@
 # Image Slider em JavaScript
 
+**Demo online:** https://okaiosantana.github.io/image-slider-js
+
+**Repositório:** https://github.com/okaiosantana/image-slider-js
+
+
 Projeto front-end desenvolvido com **JavaScript puro**, focado na criação de um **slider de imagens interativo**, com múltiplas formas de navegação e controle de estado da interface.
 
 O objetivo deste projeto é demonstrar domínio de **manipulação do DOM**, controle de eventos e construção de componentes reutilizáveis de UI.
